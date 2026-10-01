@@ -1,0 +1,6 @@
+{
+  "name": "NovaCart Ai",
+  "description": "Your Style. Your Choice. Powered by AI. India's modern fashion e-commerce marketplace for dresses, handbags, jewellery, and accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
